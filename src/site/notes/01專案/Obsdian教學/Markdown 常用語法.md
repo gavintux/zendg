@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01專案/Obsdian教學/Markdown 常用語法/"}
+{"dg-publish":true,"permalink":"/01/obsdian/markdown/"}
 ---
 
 # 標題

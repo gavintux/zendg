@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/LearnObsidian/Obsdian 操作及應用/"}
+{"dg-publish":true,"permalink":"/02/learn-obsidian/obsdian/"}
 ---
 
 # Plugins

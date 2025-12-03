@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01專案/Obsdian教學/Obsidian 操作及日誌系統/"}
+{"dg-publish":true,"permalink":"/01/obsdian/obsidian/"}
 ---
 
 

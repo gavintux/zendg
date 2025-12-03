@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/遊戲化/Gamification/"}
+{"dg-publish":true,"permalink":"/02//gamification/"}
 ---
 
 
 遊戲化大師周郁凱在研究了市場上各大好玩的遊戲後，結合遊戲設計理論、動機心理學和行為經濟學，統整出這些受歡迎的遊戲是源於八種核心驅動力（Core Drive），提出[八角分析法的理論架構（Octalysis）](http://yukaichou.com/gamification-examples/what-is-gamification/)在經過模型不斷經調整和修正後，他相信人們所做的每件事情都可以從這八個動機裡面找到驅使他們採取行動的原因。
 1. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02領域/遊戲化/使命感與上天的旨意/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02///" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

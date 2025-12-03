@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01專案/好用的插件@obsidian/"}
+{"dg-publish":true,"permalink":"/01/obsidian/"}
 ---
 
 # Metadata

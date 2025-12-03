@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/20MyWebSite/LinKC Share  Data from Obsidian/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/02/20-my-web-site/lin-kc-share-data-from-obsidian/","tags":["gardenEntry"]}
 ---
 
 # 好文共享

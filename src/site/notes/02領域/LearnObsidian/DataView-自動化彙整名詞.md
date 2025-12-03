@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/LearnObsidian/DataView-自動化彙整名詞/"}
+{"dg-publish":true,"permalink":"/02/learn-obsidian/data-view/"}
 ---
 
 
