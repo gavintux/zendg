@@ -1,5 +1,5 @@
 ---
-{"created":"2025-12-03T11:30:03.459+08:00","dg-publish":true,"modify":"2025-11-21T11:58:00","permalink":"/04檔案/app/Mindomo search tools 程式碼/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T12:05:45.485+08:00"}
+{"created":"2025-12-03T11:30:03.459+08:00","dg-publish":true,"modify":"2025-11-21T11:58:00","permalink":"/04檔案/app/Mindomo search tools 程式碼/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T14:20:20.703+08:00"}
 ---
 
 
@@ -7,6 +7,10 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
+    <meta name="author" content="Lin Kuang Chang"> 
+    <meta name="description" content="Mindomo search tools">
+    <meta name="keywords" content="Mindomo,Mindmap">
+    <meta name="revised" content="2025/11/21">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mindomo 檔案分享區</title>
