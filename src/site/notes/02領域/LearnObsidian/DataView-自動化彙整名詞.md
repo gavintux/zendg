@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/learn-obsidian/data-view/"}
+{"dg-publish":true,"permalink":"/02/learn-obsidian/data-view/","dgPassFrontmatter":true}
 ---
 
 

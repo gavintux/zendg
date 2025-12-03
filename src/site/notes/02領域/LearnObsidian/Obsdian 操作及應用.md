@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/learn-obsidian/obsdian/"}
+{"dg-publish":true,"permalink":"/02/learn-obsidian/obsdian/","dgPassFrontmatter":true}
 ---
 
 # Plugins

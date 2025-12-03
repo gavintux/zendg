@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02//gamification/"}
+{"dg-publish":true,"permalink":"/02//gamification/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/20-my-web-site/lin-kc-share-data-from-obsidian/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/02/20-my-web-site/lin-kc-share-data-from-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # 好文共享

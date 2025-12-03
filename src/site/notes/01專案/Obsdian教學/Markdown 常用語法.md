@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/obsdian/markdown/"}
+{"dg-publish":true,"permalink":"/01/obsdian/markdown/","dgPassFrontmatter":true}
 ---
 
 # 標題
