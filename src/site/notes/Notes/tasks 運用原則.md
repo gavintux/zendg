@@ -1,5 +1,5 @@
 ---
-{"created":"2025-11-03T10:23:55.284+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/notes/tasks/","dgPassFrontmatter":true,"updated":"2025-12-03T09:37:08.261+08:00"}
+{"created":"2025-11-03T10:23:55.284+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tasks 運用原則/","dgPassFrontmatter":true,"updated":"2025-12-03T09:37:08.261+08:00"}
 ---
 
 

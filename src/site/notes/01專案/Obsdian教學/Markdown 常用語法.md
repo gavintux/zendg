@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/obsdian/markdown/","dgPassFrontmatter":true,"created":"2025-05-19T09:28:47.303+08:00","updated":"2025-08-27T14:00:06.697+08:00"}
+{"dg-publish":true,"permalink":"/01專案/Obsdian教學/Markdown 常用語法/","dgPassFrontmatter":true,"created":"2025-05-19T09:28:47.303+08:00","updated":"2025-08-27T14:00:06.697+08:00"}
 ---
 
 # 標題
