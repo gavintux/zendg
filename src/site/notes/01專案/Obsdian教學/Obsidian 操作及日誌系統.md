@@ -10,7 +10,7 @@
 - [[01專案/Obsdian教學/Markdown 常用語法\|Markdown 常用語法]]
 ---
 # 插件 plugins
-[[01專案/好用的插件@obsidian\|好用的插件@obsidian]]
+[[好用的插件@obsidian\|好用的插件@obsidian]]
 ---
 
 
