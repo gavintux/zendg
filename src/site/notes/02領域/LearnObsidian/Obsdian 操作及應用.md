@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/LearnObsidian/Obsdian 操作及應用/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-17T15:59:33.464+08:00","updated":"2025-05-19T09:08:26.786+08:00"}
+{"dg-publish":true,"permalink":"/02領域/LearnObsidian/Obsdian 操作及應用/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-17T15:59:33.464+08:00","updated":"2025-05-17T16:02:50.403+08:00"}
 ---
 
 # Plugins
