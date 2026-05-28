@@ -1,5 +1,5 @@
 ---
-{"created":"2025-11-03T10:20:00.793+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tags 使用原則/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T09:35:42.819+08:00"}
+{"created":"2025-11-03T10:20:00.793+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tags 使用原則/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T09:35:42.819+08:00","dg-note-properties":{"created":"2025-11-03","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"]}}
 ---
 
 定義 Obsidian 的 tags（標籤）時，以下是建議遵循的 **10 條原則**，每條都幫助你有效、靈活又易管理：

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-11-03T10:02:13.671+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tags 與 categories 該如何區隔並靈活運用/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T09:36:27.520+08:00"}
+{"created":"2025-11-03T10:02:13.671+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tags 與 categories 該如何區隔並靈活運用/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T09:36:27.520+08:00","dg-note-properties":{"created":"2025-11-03","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"]}}
 ---
 
 **tags（標籤）** 與 **categories（分類）** 在 Obsidian 中雖然都是整理筆記的工具，但目的與用法各有不同。以下幫你清楚區分，並給實用建議：
