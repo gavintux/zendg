@@ -1,5 +1,5 @@
 ---
-{"created":"2025-12-03T11:22:04.181+08:00","modify":"2025-12-03T11:24:00","categories":["[[Apps]]"],"tags":["心智圖法"],"dg-publish":true,"permalink":"/04檔案/app/Mindomo Search Tools-標籤分類儀表板 - 建置與操作手冊/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T11:29:39.690+08:00"}
+{"created":"2025-12-03T11:22:04.181+08:00","modify":"2025-12-03T11:24:00","categories":["[[Apps]]"],"tags":["心智圖法"],"dg-publish":true,"permalink":"/04檔案/app/Mindomo Search Tools-標籤分類儀表板 - 建置與操作手冊/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T11:29:39.690+08:00","dg-note-properties":{"created":"2025-11-24","modify":"2025-12-03T11:24:00","categories":["[[Apps]]"],"tags":["心智圖法"]}}
 ---
 
 

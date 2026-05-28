@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02領域/遊戲化/Gamification/","dgPassFrontmatter":true,"noteIcon":"","created":"2022-05-13T16:41:02.000+08:00","updated":"2025-12-03T10:52:06.173+08:00"}
+{"dg-publish":true,"permalink":"/02領域/遊戲化/Gamification/","dgPassFrontmatter":true,"noteIcon":"","created":"2022-05-13T16:41:02.000+08:00","updated":"2025-12-03T10:52:06.173+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90系統匣/90Query/GD搜尋儀表版-Linkc/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T14:27:28.210+08:00","updated":"2025-12-13T19:36:34.736+08:00"}
+{"dg-publish":true,"permalink":"/90系統匣/90Query/GD搜尋儀表版-Linkc/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T14:27:28.210+08:00","updated":"2025-12-13T19:36:34.736+08:00","dg-note-properties":{}}
 ---
 
 
