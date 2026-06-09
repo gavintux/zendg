@@ -1,5 +1,5 @@
 ---
-{"created":"2025-11-03T10:23:55.284+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tasks 運用原則/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-12-03T09:37:08.261+08:00","dg-note-properties":{"created":"2025-11-03","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"]}}
+{"created":"2025-11-03T10:23:55.284+08:00","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"],"dg-publish":true,"permalink":"/Notes/tasks 運用原則/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-06T22:50:08.173+08:00","dg-note-properties":{"created":"2025-11-03","aliases":null,"status":"#🌱","sourceType":"#📥/📖","author":["Perplexity AI"],"topics":["知識管理"],"categories":["Thinking"],"tags":["references"]}}
 ---
 
 
@@ -40,23 +40,16 @@
 
 1. **只給真有「行動項目」的筆記加 tasks**  
     避免泛用，讓 tasks 標籤只指向有待辦內容的筆記。
-    
 2. **統一命名，用複數形式 tasks（非 task）**  
     方便批次查找，避免混淆。
-    
 3. **搭配其它狀態標籤，如 todo、urgent、done**  
     能做更細致的分類（如 tasks+urgent 為緊急任務）。
-    
 4. **tasks tag 放在 YAML 區塊或正文，兩者可並用互補**  
     YAML 管理全局，正文可標記細項。
-    
 5. **定期查詢、整理 tasks 筆記**  
     避免任務遺漏，保持知識行動鏈有效流動。
-    
 6. **任務完成後可移除 tasks 標籤或加 done 標記**  
     讓系統持續保持簡潔。
-    
-
 ---
 
 **總結**：  
