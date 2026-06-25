@@ -1,5 +1,5 @@
 ---
-{"categories":["[[Places]]"],"coordinates":[49.7567,6.6414],"color":"blue","icon":"map-pin","tags":["德國","特里爾","城市","歷史古城","世界文化遺產"],"type":["[[Cities]]"],"rating":9,"address":"Trier, Germany","created":"2026-06-24T20:29:08.898+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/特里爾 (Trier)/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T09:45:21.033+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[49.7567,6.6414],"color":"blue","icon":"map-pin","tags":["德國","特里爾","城市","歷史古城","世界文化遺產"],"type":["[[Cities]]"],"rating":9,"address":"Trier, Germany","created":"2026-06-24","last":"2026-06-24"}}
+{"categories":["[[Places]]"],"coordinates":[49.7567,6.6414],"color":"blue","icon":"map-pin","tags":["德國","特里爾","城市","歷史古城","世界文化遺產"],"type":["[[Cities]]"],"rating":9,"address":"Trier, Germany","created":"2026-06-24T20:29:08.898+08:00","last":"2026-06-24","dg-publish":true,"dg-permalink":"特里爾","permalink":"/特里爾/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T15:04:28.177+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[49.7567,6.6414],"color":"blue","icon":"map-pin","tags":["德國","特里爾","城市","歷史古城","世界文化遺產"],"type":["[[Cities]]"],"rating":9,"address":"Trier, Germany","created":"2026-06-24","last":"2026-06-24"}}
 ---
 
 # 特里爾 (Trier)
