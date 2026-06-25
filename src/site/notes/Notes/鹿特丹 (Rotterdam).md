@@ -1,5 +1,5 @@
 ---
-{"categories":["[[Places]]"],"coordinates":[51.9244,4.4777],"color":"blue","icon":"map-pin","tags":["荷蘭","鹿特丹","城市","港口","現代建築"],"type":["[[Cities]]"],"rating":8,"address":"Rotterdam, Netherlands","dg-publish":true,"permalink":"/Notes/鹿特丹 (Rotterdam)/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-06-24T21:53:05.345+08:00","updated":"2026-06-25T11:36:13.167+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[51.9244,4.4777],"color":"blue","icon":"map-pin","tags":["荷蘭","鹿特丹","城市","港口","現代建築"],"type":["[[Cities]]"],"rating":8,"address":"Rotterdam, Netherlands"}}
+{"categories":["[[Places]]"],"coordinates":[51.9244,4.4777],"color":"blue","icon":"map-pin","tags":["荷蘭","鹿特丹","城市","港口","現代建築"],"type":["[[Cities]]"],"rating":8,"address":"Rotterdam, Netherlands","dg-publish":true,"dg-permalink":"鹿特丹Rotterdam","permalink":"/鹿特丹Rotterdam/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-06-24T21:53:05.345+08:00","updated":"2026-06-25T15:10:47.390+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[51.9244,4.4777],"color":"blue","icon":"map-pin","tags":["荷蘭","鹿特丹","城市","港口","現代建築"],"type":["[[Cities]]"],"rating":8,"address":"Rotterdam, Netherlands"}}
 ---
 
   •
