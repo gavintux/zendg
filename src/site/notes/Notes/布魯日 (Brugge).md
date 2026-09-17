@@ -1,5 +1,5 @@
 ---
-{"categories":["[[Places]]"],"coordinates":[51.2093,3.2247],"color":"blue","icon":"map-pin","tags":["比利時","布魯日","城市","世界文化遺產","運河"],"type":["[[Cities]]"],"rating":9,"address":"Bruges, Belgium","created":"2026-06-24T21:49:33.034+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/布魯日 (Brugge)/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T11:03:58.447+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[51.2093,3.2247],"color":"blue","icon":"map-pin","tags":["比利時","布魯日","城市","世界文化遺產","運河"],"type":["[[Cities]]"],"rating":9,"address":"Bruges, Belgium","created":"2026-06-24","last":"2026-06-24"}}
+{"categories":["[[Places]]"],"coordinates":[51.2093,3.2247],"color":"blue","icon":"map-pin","tags":["比利時","布魯日","城市","世界文化遺產","運河"],"type":["[[Cities]]"],"rating":9,"address":"Bruges, Belgium","created":"2026-06-24T21:49:33.034+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/布魯日 (Brugge)/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T11:03:58.447+08:00","dg-note-properties":{"categories":["[[Categories/Places]]"],"coordinates":[51.2093,3.2247],"color":"blue","icon":"map-pin","tags":["比利時","布魯日","城市","世界文化遺產","運河"],"type":["[[Cities]]"],"rating":9,"address":"Bruges, Belgium","created":"2026-06-24","last":"2026-06-24"}}
 ---
 
 # 布魯日 (Bruges / Brugge)

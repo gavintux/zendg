@@ -1,8 +1,8 @@
 ---
-{"categories":["[[Places]]"],"coordinates":[52.4589,5.1017],"color":"blue","icon":"home","tags":["荷蘭","馬肯","漁村","景點","綠色木屋","半島"],"type":["[[Town]]","[[Attraction]]"],"rating":8,"address":"Marken, Netherlands","created":"2026-06-24T21:59:47.603+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/馬肯 (Marken) 小村莊/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T12:02:17.184+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[52.4589,5.1017],"color":"blue","icon":"home","tags":["荷蘭","馬肯","漁村","景點","綠色木屋","半島"],"type":["[[Town]]","[[Attraction]]"],"rating":8,"address":"Marken, Netherlands","created":"2026-06-24","last":"2026-06-24"}}
+{"categories":["[[Places]]"],"coordinates":[52.4589,5.1017],"color":"blue","icon":"home","tags":["荷蘭","馬肯","漁村","景點","綠色木屋","半島"],"type":["[[Town]]","[[Attraction]]"],"rating":8,"address":"Marken, Netherlands","created":"2026-06-24T21:59:47.603+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/馬肯 (Marken) 小村莊/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-07-07T00:42:15.600+08:00","dg-note-properties":{"categories":["[[Categories/Places]]"],"coordinates":[52.4589,5.1017],"color":"blue","icon":"home","tags":["荷蘭","馬肯","漁村","景點","綠色木屋","半島"],"type":["[[Town]]","[[Notes/Attraction]]"],"rating":8,"address":"Marken, Netherlands","created":"2026-06-24","last":"2026-06-24"}}
 ---
 
-# 馬肯 (Marken) 小村莊
+# 馬克 (Marken) 小村莊
 
 **馬肯**（荷蘭語：*Marken*）是位於荷蘭艾瑟湖畔的一座寧靜小村莊。它在歷史上曾是須德海中的一座孤立島嶼，直到 1957 年建造防洪堤防公路（Werfdijk）後才與荷蘭本土相連。馬肯以其保留完整、漆成綠色與黑色的高腳木造房舍、獨特的島嶼民俗以及寧靜的村落氛圍而著稱。
 
