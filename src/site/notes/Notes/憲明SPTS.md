@@ -1,5 +1,5 @@
 ---
-{"title":"憲明國小 SPTS 策略藍圖：打造低熵、靜定與自主學習的微型教育生態","categories":["校務","部落格"],"tags":["憲明國小","SPTS","辦學理念","正念教育","數位學習","第二大腦","熵減"],"status":"🌱","created":"2026-09-17T13:48:40.264+08:00","dg-publish":true,"permalink":"/Notes/憲明SPTS/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-09-17T13:58:08.562+08:00","dg-note-properties":{"title":"憲明國小 SPTS 策略藍圖：打造低熵、靜定與自主學習的微型教育生態","categories":["校務","部落格"],"tags":["憲明國小","SPTS","辦學理念","正念教育","數位學習","第二大腦","熵減"],"status":"🌱","created":"2026-09-17"}}
+{"title":"憲明國小 SPTS 策略藍圖：打造低熵、靜定與自主學習的微型教育生態","categories":["校務","部落格"],"tags":["憲明國小","SPTS","辦學理念","正念教育","數位學習","第二大腦","熵減"],"status":"🌱","created":"2026-09-17T13:48:40.264+08:00","dg-publish":true,"permalink":"/Notes/憲明SPTS/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-09-17T14:03:39.958+08:00","dg-note-properties":{"title":"憲明國小 SPTS 策略藍圖：打造低熵、靜定與自主學習的微型教育生態","categories":["校務","部落格"],"tags":["憲明國小","SPTS","辦學理念","正念教育","數位學習","第二大腦","熵減"],"status":"🌱","created":"2026-09-17"}}
 ---
 
 
