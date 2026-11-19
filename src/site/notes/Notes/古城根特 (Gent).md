@@ -1,5 +1,5 @@
 ---
-{"categories":["[[Places]]"],"coordinates":[51.0543,3.7174],"color":"blue","icon":"map-pin","tags":["比利時","根特","城市","大學城","中世紀"],"type":["[[Cities]]"],"rating":9,"address":"Ghent, Belgium","created":"2026-06-24T21:49:34.936+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/古城根特 (Gent)/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T11:05:35.680+08:00","dg-note-properties":{"categories":["[[Places]]"],"coordinates":[51.0543,3.7174],"color":"blue","icon":"map-pin","tags":["比利時","根特","城市","大學城","中世紀"],"type":["[[Cities]]"],"rating":9,"address":"Ghent, Belgium","created":"2026-06-24","last":"2026-06-24"}}
+{"categories":["[[Places]]"],"coordinates":[51.0543,3.7174],"color":"blue","icon":"map-pin","tags":["比利時","根特","城市","大學城","中世紀"],"type":["[[Cities]]"],"rating":9,"address":"Ghent, Belgium","created":"2026-06-24T21:49:34.936+08:00","last":"2026-06-24","dg-publish":true,"permalink":"/Notes/古城根特 (Gent)/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-06-25T11:05:35.680+08:00","dg-note-properties":{"categories":["[[Categories/Places]]"],"coordinates":[51.0543,3.7174],"color":"blue","icon":"map-pin","tags":["比利時","根特","城市","大學城","中世紀"],"type":["[[Cities]]"],"rating":9,"address":"Ghent, Belgium","created":"2026-06-24","last":"2026-06-24"}}
 ---
 
 # 古城根特 (Ghent / Gent)

@@ -1,5 +1,5 @@
 ---
-{"categories":"[[People]]","tags":["people","authors"],"dg-publish":true,"permalink":"/90系統匣/Agents/Gemini/skills/obsidianWikilinkExpander/templates/Author Template1/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-06-21T20:17:25.231+08:00","updated":"2026-06-25T11:40:33.308+08:00","dg-note-properties":{"categories":"[[People]]","tags":["people","authors"]}}
+{"categories":"[[People]]","tags":["people","authors"],"dg-publish":true,"permalink":"/90系統匣/Agents/Gemini/skills/obsidianWikilinkExpander/templates/Author Template1/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-06-21T20:17:25.231+08:00","updated":"2026-06-25T11:40:33.308+08:00","dg-note-properties":{"categories":"[[Categories/People]]","tags":["people","authors"]}}
 ---
 
 ## Books
@@ -21,28 +21,6 @@ properties:
     displayName: Genre
 views:
   - type: table
-    name: Books
-    order:
-      - file.name
-      - author
-      - length
-      - year
-      - rating
-      - topics
-      - last
-    sort:
-      - property: file.name
-        direction: ASC
-  - type: table
-    name: Top rated
-    order:
-      - file.name
-      - rating
-      - last
-    sort:
-      - property: last
-        direction: DESC
-  - type: table
     name: Author
     filters:
       and:
@@ -54,14 +32,5 @@ views:
     sort:
       - property: genre
         direction: ASC
-  - type: table
-    name: Genre
-    filters:
-      and:
-        - list(genre).contains(this)
-    order:
-      - file.name
-      - year
-      - genre
 
 ```
