@@ -1,5 +1,5 @@
 ---
-{"categories":"wiki","tags":["wiki","wiki/ai","wiki/pkm","wiki/obsidian"],"status":"🌞","sourceType":"📥/✨","created":"2026-09-24T14:09:15.239+08:00","updated":"2026-11-25T21:20:13.059+08:00","summary":"Andrej Karpathy 提出的 LLM-Wiki 三層架構、本地知識導入 Agent 系統之實務價值、Antigravity 六步實作流程、Obsidian 自動化與對比傳統 RAG 的高效知識編譯模式。","tier":"core","base_confidence":0.85,"lifecycle":"draft","sources":["[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理.md]]","[[Clippings/Antigravity 實做 Karpathy LLM Wiki.md]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性.md]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！.md]]"],"dg-publish":true,"permalink":"/wiki/LLM_Wiki_知識庫架構/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/ai","wiki/pkm","wiki/obsidian"],"status":"🌞","sourceType":"📥/✨","created":"2026-09-24","updated":"2026-11-23","summary":"Andrej Karpathy 提出的 LLM-Wiki 三層架構、本地知識導入 Agent 系統之實務價值、Antigravity 六步實作流程、Obsidian 自動化與對比傳統 RAG 的高效知識編譯模式。","tier":"core","base_confidence":0.85,"lifecycle":"draft","sources":["[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理]]","[[Clippings/Antigravity 實做 Karpathy LLM Wiki]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！]]"]}}
+{"categories":"wiki","tags":["wiki","wiki/ai","wiki/pkm","wiki/obsidian"],"status":"🌞","sourceType":"📥/✨","created":"2026-09-24T14:09:15.239+08:00","updated":"2026-11-26T16:18:00.313+08:00","sources":["[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理.md]]","[[Clippings/Antigravity 實做 Karpathy LLM Wiki.md]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性.md]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！.md]]"],"dg-publish":true,"permalink":"/wiki/LLM_Wiki_知識庫架構/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/ai","wiki/pkm","wiki/obsidian"],"status":"🌞","sourceType":"📥/✨","created":"2026-09-24","updated":"2026-11-23","sources":["[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理]]","[[Clippings/Antigravity 實做 Karpathy LLM Wiki]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！]]"]}}
 ---
 
 
@@ -137,7 +137,7 @@ flowchart LR
 * 除了文字筆記，Agent 還能將 Wiki 內容進一步編譯為互動式網頁與圖表（例如三國戰役時間軸、脈輪動態圖解），使靜態知識庫轉化為生動的可視化探索工具。
 
 ### 5.6 Google Antigravity 實作自演化知識庫六步驟（孫天龍示範）
-[[Notes/孫天龍\|孫天龍]] 教授（[[Notes/Tien-Lung Sun\|Tien-Lung Sun]]）在示範影片中，具體拆解了如何以 **Antigravity** 落地 [[Notes/Andrej Karpathy\|Andrej Karpathy]] 的 LLM-Wiki 理念，建立一套**自演化知識庫（Self-evolving Knowledge Base）**的六大標準步驟：
+[[Notes/孫天龍\|孫天龍]] 教授（Tien-Lung Sun）在示範影片中，具體拆解了如何以 **Antigravity** 落地 [[Notes/Andrej Karpathy\|Andrej Karpathy]] 的 LLM-Wiki 理念，建立一套**自演化知識庫（Self-evolving Knowledge Base）**的六大標準步驟：
 1. **系統建置**：直接請 AI Agent 依據 Andrej Karpathy 的核心想法，設計並開發 LLM-Wiki 的目錄架構與操作規則（Schema）。
 2. **異質資料轉檔**：調用微軟 `markitdown` skill，將 PDF、簡報、文件等各種格式的原始素材轉換為純文字 Markdown 檔案。
 3. **Data Ingest（知識注入）**：由 Agent 讀取轉換後的 Markdown，進行提煉、融合並編譯至 Wiki 知識頁面。

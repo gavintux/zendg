@@ -1,5 +1,5 @@
 ---
-{"categories":"wiki","tags":["wiki","wiki/ecology","wiki/philosophy"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T20:54:43.239+08:00","updated":"2026-11-25T19:11:50.690+08:00","sources":["[[raw/Naess 深層生態學研究-論文.pdf]]","[[raw/Naess 深層生態學研究-論文.md]]"],"dg-publish":true,"permalink":"/wiki/生態智慧_T_與自我實現/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/ecology","wiki/philosophy"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-07-15","sources":["[[raw/Naess 深層生態學研究-論文.pdf]]","[[raw/Naess 深層生態學研究-論文]]"]}}
+{"categories":"wiki","tags":["wiki","wiki/ecology","wiki/philosophy"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T20:54:43.239+08:00","updated":"2026-11-26T16:18:46.748+08:00","sources":["[[raw/Naess 深層生態學研究-論文.pdf]]","[[raw/Naess 深層生態學研究-論文.md]]"],"dg-publish":true,"permalink":"/wiki/生態智慧_T_與自我實現/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/ecology","wiki/philosophy"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-07-15","sources":["[[raw/Naess 深層生態學研究-論文.pdf]]","[[raw/Naess 深層生態學研究-論文]]"]}}
 ---
 
 
@@ -124,9 +124,14 @@
 6. **地方色彩文化**：文化與娛樂具備高度在地特色，減少文化霸權侵蝕。
 7. **地方與全球並重的教育**：學校教育使大眾了解在地生態，但保留人類正規之文學、藝術等知識。
 8. **極小的貧富差距**：收入和財富差距被限制在極小的範圍內，確保社會平等。
-9. **小範圍地理空間**：社區應是便於管理 and 互動的小範圍地理空間。
+9. **小範圍地理空間**：社區應是便於管理與互動的小範圍地理空間。
 10. **地方與中央共存**：地區內可設有大型專門機構（如醫院、國際研究所等），與地方自治理念共存。
 
 ---
-Path: wiki/生態智慧_T_與自我實現.md
+
+## 相關頁面
+* [[wiki/深層生態學\|深層生態學]]
+* [[wiki/深層生態學_八大平台原則\|深層生態學_八大平台原則]]
+* [[wiki/深層生態學的批判與回應\|深層生態學的批判與回應]]
+* [[wiki/憲明國小_深層生態學導入方案\|憲明國小_深層生態學導入方案]]
 

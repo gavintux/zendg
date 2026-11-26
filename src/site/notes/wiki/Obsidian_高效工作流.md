@@ -1,5 +1,5 @@
 ---
-{"categories":"wiki","tags":["wiki","wiki/obsidian","wiki/ai"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T19:59:38.352+08:00","updated":"2026-11-25T21:25:21.782+08:00","sources":["[[Clippings/How I use Obsidian.md]]","[[Clippings/Obs＃50 QuickAdd全攻略(一)：改變工作流程的超強外掛 – 簡睿隨筆.md]]","[[Clippings/【解答合集】批量添加删除修改查找替换 - 经验分享.md]]","[[Clippings/Mindomo API.md]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！.md]]"],"dg-publish":true,"permalink":"/wiki/Obsidian_高效工作流/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/obsidian","wiki/ai"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-09-24","sources":["[[Clippings/How I use Obsidian]]","[[Clippings/Obs＃50 QuickAdd全攻略(一)：改變工作流程的超強外掛 – 簡睿隨筆]]","[[Clippings/【解答合集】批量添加删除修改查找替换 - 经验分享]]","[[Clippings/Mindomo API]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！]]"]}}
+{"categories":"wiki","tags":["wiki","wiki/obsidian","wiki/ai"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T19:59:38.352+08:00","updated":"2026-11-26T16:17:58.451+08:00","sources":["[[Clippings/How I use Obsidian.md]]","[[Clippings/Obs＃50 QuickAdd全攻略(一)：改變工作流程的超強外掛 – 簡睿隨筆.md]]","[[Clippings/【解答合集】批量添加删除修改查找替换 - 经验分享.md]]","[[Clippings/Mindomo API.md]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理.md]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性.md]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！.md]]"],"dg-publish":true,"permalink":"/wiki/Obsidian_高效工作流/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/obsidian","wiki/ai"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-09-24","sources":["[[Clippings/How I use Obsidian]]","[[Clippings/Obs＃50 QuickAdd全攻略(一)：改變工作流程的超強外掛 – 簡睿隨筆]]","[[Clippings/【解答合集】批量添加删除修改查找替换 - 经验分享]]","[[Clippings/Mindomo API]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！]]"]}}
 ---
 
 
@@ -34,6 +34,5 @@ QuickAdd 是改變 Obsidian 工作流的靈魂外掛，主要包含四大核心�
 
 ## 相關頁面
 * [[wiki/LLM_Wiki_知識庫架構\|LLM_Wiki_知識庫架構]]
+* [[wiki/系統部署與_Windows_精簡\|系統部署與_Windows_精簡]]
 * [[Notes/PAPAYA 電腦教室\|PAPAYA 電腦教室]]
-
-Path: wiki/Obsidian_高效工作流.md

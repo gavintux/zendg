@@ -1,5 +1,5 @@
 ---
-{"categories":"wiki","tags":["wiki","wiki/tech","wiki/education"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T19:59:30.236+08:00","updated":"2026-11-25T21:25:11.739+08:00","sources":["[[raw/Agent Skills與學生學習歷程的蒸餾問題探討.md]]","[[Clippings/輝達不再是單純科技公司！黃仁勳：新定位為AI基礎架構公司.md]]","[[raw/AI 害大腦太偷懶、欠下龐大的「認知債務」？MIT 研究：人類將付出這些代價.md]]","[[raw/AI 很聰明，為什麼還不能幫我們把工作做完？AI的3大核心限制經理人.md]]","[[raw/說話，是最有效的思考訓練經理人.md]]","[[Clippings/Z 世代習慣打字、40% 嘆 「手寫好難」！專家揭書寫能力退化的隱憂經理人.md]]","[[Clippings/Agent Skills是什麼？從業界知識蒸餾趨勢到學生學習歷程課題｜翻轉教育.md]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理.md]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性.md]]"],"dg-publish":true,"permalink":"/wiki/AI_與學習科技/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/tech","wiki/education"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-09-24","sources":["[[raw/Agent Skills與學生學習歷程的蒸餾問題探討]]","[[Clippings/輝達不再是單純科技公司！黃仁勳：新定位為AI基礎架構公司]]","[[raw/AI 害大腦太偷懶、欠下龐大的「認知債務」？MIT 研究：人類將付出這些代價]]","[[raw/AI 很聰明，為什麼還不能幫我們把工作做完？AI的3大核心限制經理人]]","[[raw/說話，是最有效的思考訓練經理人]]","[[Clippings/Z 世代習慣打字、40% 嘆 「手寫好難」！專家揭書寫能力退化的隱憂經理人]]","[[Clippings/Agent Skills是什麼？從業界知識蒸餾趨勢到學生學習歷程課題｜翻轉教育]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性]]"]}}
+{"categories":"wiki","tags":["wiki","wiki/tech","wiki/education"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15T19:59:30.236+08:00","updated":"2026-11-26T16:17:56.436+08:00","sources":["[[raw/Agent Skills與學生學習歷程的蒸餾問題探討.md]]","[[Clippings/輝達不再是單純科技公司！黃仁勳：新定位為AI基礎架構公司.md]]","[[raw/AI 害大腦太偷懶、欠下龐大的「認知債務」？MIT 研究：人類將付出這些代價.md]]","[[raw/AI 很聰明，為什麼還不能幫我們把工作做完？AI的3大核心限制經理人.md]]","[[raw/說話，是最有效的思考訓練經理人.md]]","[[Clippings/Z 世代習慣打字、40% 嘆 「手寫好難」！專家揭書寫能力退化的隱憂經理人.md]]","[[Clippings/Agent Skills是什麼？從業界知識蒸餾趨勢到學生學習歷程課題｜翻轉教育.md]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理.md]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性.md]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！.md]]"],"dg-publish":true,"permalink":"/wiki/AI_與學習科技/","dgPassFrontmatter":true,"noteIcon":"","dg-note-properties":{"categories":"wiki","tags":["wiki","wiki/tech","wiki/education"],"status":"🌞","sourceType":"📥/✨","created":"2026-07-15","updated":"2026-09-24","sources":["[[raw/Agent Skills與學生學習歷程的蒸餾問題探討]]","[[Clippings/輝達不再是單純科技公司！黃仁勳：新定位為AI基礎架構公司]]","[[raw/AI 害大腦太偷懶、欠下龐大的「認知債務」？MIT 研究：人類將付出這些代價]]","[[raw/AI 很聰明，為什麼還不能幫我們把工作做完？AI的3大核心限制經理人]]","[[raw/說話，是最有效的思考訓練經理人]]","[[Clippings/Z 世代習慣打字、40% 嘆 「手寫好難」！專家揭書寫能力退化的隱憂經理人]]","[[Clippings/Agent Skills是什麼？從業界知識蒸餾趨勢到學生學習歷程課題｜翻轉教育]]","[[Clippings/Antigravity + 微軟 Markitdown Skill + Karpaty LLM Wiki 測試知識管理]]","[[Clippings/用 LLM wiki 將本地知識導入Agent系統，以提升其專業性與實務可用性]]","[[Clippings/國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！]]"]}}
 ---
 
 
@@ -12,7 +12,7 @@
 ## 1. 輝達的 AI 基礎架構公司新定位
 依據 [[Notes/黃仁勳\|黃仁勳]] 於 COMPUTEX 2025 的演說：
 * **定位轉移**：輝達（NVIDIA）不再是單純研發晶片的科技公司，而是新型態的「**AI 基礎設施與工廠（AI Infrastructure）**」提供者。
-* **兆元工廠商機**：整個科技業的商機已從一兆美元的「資料中心」，轉向大規模計量的「AI 基礎架構與工架（AI Infrastructure）」，這是支撐生成式 AI 大規模落地的物理基石。
+* **兆元工廠商機**：整個科技業的商機已從一兆美元的「資料中心」，轉向大規模計量的「AI 基礎架構與工廠（AI Infrastructure）」，這是支撐生成式 AI 大規模落地的物理基石。
 
 ---
 
@@ -138,6 +138,9 @@ MIT 團隊建議，應有意識地安排 AI 介入的時機點，避免前期思
 * [[wiki/數位教學與學習\|數位教學與學習]]
 * [[wiki/家庭數位學習與親職陪伴\|家庭數位學習與親職陪伴]]
 * [[wiki/校長數位學習領導\|校長數位學習領導]]
+* [[wiki/人類能動性與自我調節\|人類能動性與自我調節]]
+* [[wiki/易經與人工智慧的抽象動力學\|易經與人工智慧的抽象動力學]]
+* [[wiki/量子計算與多世界詮釋\|量子計算與多世界詮釋]]
+* [[wiki/意識科學與量子觀測之辨\|意識科學與量子觀測之辨]]
 * [[Notes/吳奇\|吳奇]]
 * [[Notes/孫天龍\|孫天龍]]
-* [[wiki/人類能動性與自我調節\|人類能動性與自我調節]]
