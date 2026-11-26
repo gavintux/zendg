@@ -1,11 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/02領域/20MyWebSite/LinKC Share  Data from Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-17T15:42:04.137+08:00","updated":"2026-06-25T09:08:07.210+08:00","dg-note-properties":{}}
+{"dg-home":true,"dg-publish":true,"permalink":"/02領域/20MyWebSite/LinKC Share  Data from Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-17T15:42:04.137+08:00","updated":"2026-11-26T13:43:50.274+08:00","dg-note-properties":{}}
 ---
 
 # todo
-- [[Notes/2026 巴黎世界盃國際籃球分齡賽 14 天行程表\|2026 巴黎世界盃國際籃球分齡賽 14 天行程表]] _2026-07-25_2026-07-08
+- [[01專案/泰國旅遊/2027-02-03_02-09泰國旅遊\|2027-02-03_02-09泰國旅遊]]
 # My Website
 - [笑長室 blog@Yiland](https://2blog.ilc.edu.tw/linkc) 
+- [zenhome@c](http://95.217.152.250/wordpress/)
 ## 自製工具
 - [ZEN 入口網](https://gavintux.github.io/yi/todo.html)
 - [易經解卦](https://gavintux.github.io/yi/yi.html)
@@ -16,6 +17,8 @@
 - [My github](https://github.com/gavintux/)
 - [About Me](https://gavintux.github.io/yi/)
 # 好文共享
+- [[02領域/量子/心經/00心經本文\|00心經本文]]
+- [[02領域/yi/00各卦爻辭\|00各卦爻辭]]
 
 # 研究主題
 - [[02領域/遊戲化/Gamification\|Gamification]]
